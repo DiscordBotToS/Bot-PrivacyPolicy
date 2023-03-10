@@ -27,7 +27,7 @@
 
 #### You can reach us by the following methods:
 - Join our [Support Server](https://discord.gg/bakchodi) on discord
-- Contact me on discord [Durex Security HQ](https://discord.gg/bakchodi)
+- Contact me on discord [NemoCord](https://discord.gg/bakchodi)
 - Server invite invalid or channels locked ? You can contact me via my backup server: [discord.gg/jkop](https://discord.gg/bakchodi)
 
 ## 5. How can we delete our entire data?
